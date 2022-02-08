@@ -1,5 +1,5 @@
 ### Hi there 👋
-![BannerGabriel](https://github.com/gabi-10/gabi-10/blob/main/GabrielBanner (4).jpg)
+![BannerGabriel](https://github.com/gabi-10/gabi-10/blob/main/GabrielBanner.png)
 <!--
 **gabi-10/gabi-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
